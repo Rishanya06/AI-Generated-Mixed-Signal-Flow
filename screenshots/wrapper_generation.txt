@@ -1,0 +1,11 @@
+Prompt Used:
+
+Generate a synthesizable Verilog wrapper for an analog 2:1 multiplexer macro named AMUX2_3V suitable for OpenLane mixed-signal integration.
+
+AI Tool:
+
+ChatGPT (GPT-5)
+
+Result:
+
+Wrapper generated and documented.
